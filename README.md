@@ -86,5 +86,5 @@ We are open to:
 Create tools and products that actually deliver results, not just look good.
 
 ---
-Supported y
+Supported by
 Yuriy Golikov
